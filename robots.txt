@@ -1,0 +1,4 @@
+User-agent: *
+Host: http://ring.karelia.pro
+Sitemap: http://ring.karelia.pro/sitemap.xml
+Allow: /
